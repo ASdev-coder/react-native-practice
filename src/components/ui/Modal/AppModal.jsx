@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   "close-button": {
     marginTop: 16,
     padding: 12,
-    backgroundColor: "dodgerblue",
+    backgroundColor: "#57B9FF",
     borderRadius: 8,
   },
 });

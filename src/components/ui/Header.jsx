@@ -20,12 +20,12 @@ const Header = () => {
   return (
     <View style={styles.header}>
       <ImageBackground
-        source={require("../images/header-image.png")}
+        source={require("../../images/header-image.png")}
         style={styles["header-image"]}
       >
         <View style={styles["header-content"]}>
           <Image
-            source={require("../images/face-hi.png")}
+            source={require("../../images/face-hi.png")}
             style={styles["face-hi"]}
           />
           <View style={styles["header-text"]}>
